@@ -6,4 +6,4 @@ learn golang from beginner
 - run the script with `go run src/test.go`
 
 ## please give me your feedback
-[x] thanks
+- [x] thanks
